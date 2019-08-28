@@ -5,6 +5,8 @@ Ifthenpay module for Magento
 
 **This is the Ifthenpay module for Magento CMS**
 
+What is Payshop?
+
 A payment service company that allows the charging of mobile phones and transportation bills, payment of various bills, such as telephone, electricity, water, gas, television, taxes, tolls, transportation bills, prepaid, among others.
 
 The Payshop service is available on a national network of around 7,000 points of which 5,000 Payshop agents. The Payshop agent network is made up of proximity retail outlets, such as stationers, tobacconists, kiosks, supermarkets and others, chosen according to strict safety and quality of service criteria.
