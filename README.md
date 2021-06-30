@@ -1,4 +1,4 @@
-Ifthenpay module for Magento
+Ifthenpay module for Magento (version 2.3 or lower)
 ==============
 ![PAYSHOP](https://ifthenpay.com/img/payshop.png)
 ![CTT](https://ifthenpay.com/img/ctt.png)
